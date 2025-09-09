@@ -9,7 +9,7 @@ O projeto foi um ótimo exercício para:
 * **Conexão com plataformas externas** usando links HTML.
 
 ## 🚀 Acesse o Site
-
+https://aleksandraberto.github.io/CardsdeMusica-Repositorio/
 
 ## 📂 Estrutura do projeto
 /MusicRecommendationCards
